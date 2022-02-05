@@ -1,4 +1,4 @@
-# Teste Prático de Front-End para processo seletivo
+# Teste Prático de Back-End para processo seletivo
 
 ## Como testar
 
